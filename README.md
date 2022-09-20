@@ -5,3 +5,5 @@
 2. Drawing and Life advices from [Drawabox](https://drawabox.com/): [Changing your Mindset](https://drawabox.com/lesson/0/2)
 
 3. [Analysis Timeline](https://longformmath.com/analysis-timeline)
+
+4. [Living Proofs](https://blogs.ams.org/inclusionexclusion/2019/06/26/living-proof-a-must-read/) Stories of people's journey in mathematics.
