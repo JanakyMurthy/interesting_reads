@@ -7,3 +7,8 @@
 3. [Analysis Timeline](https://longformmath.com/analysis-timeline)
 
 4. [Living Proofs](https://blogs.ams.org/inclusionexclusion/2019/06/26/living-proof-a-must-read/) Stories of people's journey in mathematics.
+
+
+# interesting_watch
+
+1. [Growth Mindset](https://youtu.be/75GFzikmRY0) 
