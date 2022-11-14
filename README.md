@@ -12,3 +12,4 @@
 # interesting_watch
 
 1. [Growth Mindset](https://youtu.be/75GFzikmRY0) 
+2. [5 Hindrances](https://www.youtube.com/watch?v=4-079YIasck&ab_channel=TEDxTalks)
