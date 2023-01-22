@@ -8,7 +8,7 @@
 
 4. [Living Proofs](https://blogs.ams.org/inclusionexclusion/2019/06/26/living-proof-a-must-read/) Stories of people's journey in mathematics.
 
-5. [Why facts don't change minds](https://jamesclear.com/why-facts-dont-change-minds)
+5. [Why facts don't change minds](https://jamesclear.com/why-facts-dont-change-minds) but kindness does...
 
 
 # interesting_watch
