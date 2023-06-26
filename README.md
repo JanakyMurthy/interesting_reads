@@ -17,6 +17,10 @@
 
 1. [Muscle Wiki](https://musclewiki.com/) Useful for figuring out what exercise should be done for each muscle group.
 
+### Food
+
+#### Coffee
+1. [Coffee Roasting explained](https://www.youtube.com/watch?v=N6BJVM5tvnw&ab_channel=JamesHoffmann)
 
 # interesting_watch
 
