@@ -11,6 +11,8 @@
 
 5. [Why facts don't change minds](https://jamesclear.com/why-facts-dont-change-minds) but kindness does...
 
+6. [Goldmine to learn drawing for free](https://design.tutsplus.com/articles/100-easy-drawing-tutorials--cms-28365)
+
 ### Health and Fitness
 
 #### Strength training
